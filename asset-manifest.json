@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Fabbi-test-app/static/css/main.75b2fda2.chunk.css",
+    "main.js": "/Fabbi-test-app/static/js/main.b9b64666.chunk.js",
+    "main.js.map": "/Fabbi-test-app/static/js/main.b9b64666.chunk.js.map",
+    "runtime-main.js": "/Fabbi-test-app/static/js/runtime-main.7d2f0b01.js",
+    "runtime-main.js.map": "/Fabbi-test-app/static/js/runtime-main.7d2f0b01.js.map",
+    "static/js/2.9a4da901.chunk.js": "/Fabbi-test-app/static/js/2.9a4da901.chunk.js",
+    "static/js/2.9a4da901.chunk.js.map": "/Fabbi-test-app/static/js/2.9a4da901.chunk.js.map",
+    "static/js/3.30af0086.chunk.js": "/Fabbi-test-app/static/js/3.30af0086.chunk.js",
+    "static/js/3.30af0086.chunk.js.map": "/Fabbi-test-app/static/js/3.30af0086.chunk.js.map",
+    "index.html": "/Fabbi-test-app/index.html",
+    "static/css/main.75b2fda2.chunk.css.map": "/Fabbi-test-app/static/css/main.75b2fda2.chunk.css.map",
+    "static/js/2.9a4da901.chunk.js.LICENSE.txt": "/Fabbi-test-app/static/js/2.9a4da901.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Fabbi-test-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d2f0b01.js",
+    "static/js/2.9a4da901.chunk.js",
+    "static/css/main.75b2fda2.chunk.css",
+    "static/js/main.b9b64666.chunk.js"
+  ]
+}
